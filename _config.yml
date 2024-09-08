@@ -16,7 +16,7 @@
 title: GREED
 email: ""
 description: "Student Software Engineer At Rotterdam University Of Applied Sciences"
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://hktgreed.uk" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: "Gr3.___"
 github_username:  "Sin0fGREED"
