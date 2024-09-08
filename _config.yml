@@ -16,8 +16,8 @@
 title: GREED
 email: ""
 description: "Student Software Engineer At Rotterdam University Of Applied Sciences"
-baseurl: "/PROFILE" # the subpath of your site, e.g. /blog
-url: "https://sin0fgreed.github.io/PROFILE/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "Website/" # the subpath of your site, e.g. /blog
+url: "https://sin0fgreed.github.io/Website/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: "Gr3.___"
 github_username:  "Sin0fGREED"
 
