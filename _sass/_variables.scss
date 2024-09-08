@@ -14,7 +14,7 @@ $gray-300: #f7de9b !default;
 $gray-400: #ced4da !default;
 $gray-500: #adb5bd !default;
 $gray-600: #919aa1 !default;
-$gray-700: #55595c !default;
+$gray-700: #5e7709 !default;
 $gray-800: #87650b !default;
 $gray-900: #574207 !default;
 $black:    #000 !default;
@@ -69,7 +69,7 @@ $h4-font-size:                1.25rem !default;
 $h5-font-size:                1rem !default;
 $h6-font-size:                .75rem !default;
 $headings-font-weight:        600 !default;
-$headings-color:              $gray-900 !default;
+$headings-color:              $gray-700 !default;
 
 // Tables
 
@@ -105,8 +105,8 @@ $form-select-disabled-bg:           $input-disabled-bg !default;
 $navbar-padding-y:                  1.5rem !default;
 $navbar-dark-hover-color:           $white !default;
 $navbar-light-color:                rgba($black, .3) !default;
-$navbar-light-hover-color:          $gray-900 !default;
-$navbar-light-active-color:         $gray-900 !default;
+$navbar-light-hover-color:          $gray-700 !default;
+$navbar-light-active-color:         $gray-700 !default;
 
 // Pagination
 
