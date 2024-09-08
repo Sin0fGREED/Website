@@ -6,7 +6,7 @@ description: Day in the life of a Casual Gamer.
 I used to grind competitive games but now I learned myself to enjoy and have fun while playing casually. Right now I just chill arround and talk to my friends through discord.
 
 
-![Rank](assets\diamond.png)
+![Rank](\diamond.png)
 
 ### Library
 I buy a lot of random games just to make my library diverse but honestly I only really play like 4 to 5 games. ofcourse the games are mostly free to play.down below I rank the games I played consistently for a couple months. A friendly reminder that the rankings are based on my own opinion.
