@@ -3,7 +3,8 @@ layout: post
 description: Day in the life of a Casual Gamer.
 ---
 ### Ranks
-I used to grind competitive games but now I learned myself to enjoy and have fun while playing casually.
+I used to grind competitive games but now I learned myself to enjoy and have fun while playing casually. Right now I just chill arround and talk to my friends through discord.
+
 
 ![Rank]({{ site.baseurl }}/assets/diamond.png)
 
